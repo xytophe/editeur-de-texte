@@ -42,6 +42,6 @@ public class Document {
     }
 
     public void clear() {
-        texte = "azgeVDFjz //a corriger";
+        texte = "";
     }
 }
